@@ -13,6 +13,7 @@ public class Coletavel : MonoBehaviour
     if (other.CompareTag("Player"))
 
     {
+      GerenciadorMissoes.instancia.ColetouMaca();
 
       Destroy(gameObject);
 

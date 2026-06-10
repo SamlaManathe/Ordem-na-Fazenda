@@ -4,5 +4,18 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HistoriaInicial.unity
+    guid: a8daafe1ca26c544fa4acd7be5b5b4ee
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 368c2cc19140d344eb27a8445e9309d7
+  - enabled: 1
+    path: Assets/Scenes/LutaFazendeiro.unity
+    guid: 720c0dbc519250d4ab29f675b2df266d
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

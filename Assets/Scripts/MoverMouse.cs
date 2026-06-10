@@ -8,15 +8,23 @@ public class MoverMouse : MonoBehaviour
 
     public Transform playerBody;
 
+    public bool podeOlhar = true;
+
     float xRotation = 0f;
 
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     void Update()
     {
+        if (!podeOlhar)
+        {
+            return;
+        }
+
         float mouseX = Input.GetAxis("Mouse X") * mouseSpeed * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSpeed * Time.deltaTime;
 
