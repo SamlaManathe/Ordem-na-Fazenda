@@ -168,11 +168,35 @@ Nenhuma visão prevalece completamente e o futuro da fazenda permanece em aberto
 
 # ▶️ Como Jogar
 
-1. Abra o projeto na Unity.
-2. Execute a cena **MenuPrincipal**.
-3. Clique em **Iniciar Jogo**.
-4. Complete as missões e faça suas escolhas.
-5. Descubra qual dos quatro finais você conquistou.
+Existem duas formas de experimentar o projeto:
+
+## 🎮 Opção 1 — Jogar a versão compilada
+
+1. Baixe o arquivo `.zip` pelo link de download disponibilizado na Release.
+2. Extraia todos os arquivos para uma pasta.
+3. Abra a pasta extraída.
+4. Execute o arquivo:
+
+```text
+Ordem na Fazenda.exe
+```
+
+5. No menu principal, clique em **Iniciar Jogo**.
+
+---
+
+## 🛠️ Opção 2 — Executar pela Unity
+
+1. Clone este repositório ou faça o download do código-fonte.
+2. Abra o projeto utilizando a Unity.
+3. Aguarde a importação dos arquivos.
+4. Abra a cena:
+
+```text
+MenuPrincipal
+```
+
+5. Clique em **Play** para iniciar o jogo.
 
 ---
 
