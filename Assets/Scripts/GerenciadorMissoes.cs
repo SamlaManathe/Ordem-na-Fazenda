@@ -70,43 +70,43 @@ public class GerenciadorMissoes : MonoBehaviour
         switch (numeroMissao)
         {
             case 1:
-                textoMissao.text = "Converse com a vaca";
+                textoMissao.text = "Converse com a vaca no lago";
                 break;
 
             case 2:
-                textoMissao.text = "Colete 16 maçãs\n" + progresso + "/16";
+                textoMissao.text = "Colete 16 maçãs caídas\n" + progresso + "/16";
                 break;
 
             case 3:
-                textoMissao.text = "Converse com o cachorro";
+                textoMissao.text = "Converse com o cachorro no galinheiro";
                 break;
 
             case 4:
-                textoMissao.text = "Colete 16 cenouras\n" + progresso + "/16";
+                textoMissao.text = "Colete 16 cenouras na plantação\n" + progresso + "/16";
                 break;
 
             case 5:
-                textoMissao.text = "Converse com o cavalo";
+                textoMissao.text = "Converse com o cavalo no celeiro";
                 break;
 
             case 6:
-                textoMissao.text = "Colete 16 trigos\n" + progresso + "/16";
+                textoMissao.text = "Colete 16 trigos na plantação\n" + progresso + "/16";
                 break;
 
             case 7:
-                textoMissao.text = "Converse com a ovelha";
+                textoMissao.text = "Converse com a ovelha na plantação";
                 break;
 
             case 8:
-                textoMissao.text = "Colete 16 melancias\n" + progresso + "/16";
+                textoMissao.text = "Colete 16 melancias na plantação\n" + progresso + "/16";
                 break;
 
             case 9:
-                textoMissao.text = "Converse com o porco";
+                textoMissao.text = "Converse com o porco atrás da casa";
                 break;
 
             case 10:
-                textoMissao.text = "Colete 16 beterrabas\n" + progresso + "/16";
+                textoMissao.text = "Colete 16 beterrabas na plantação\n" + progresso + "/16";
                 break;
 
             default:

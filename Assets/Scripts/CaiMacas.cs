@@ -5,7 +5,7 @@ using UnityEngine;
 public class CaiMacas : MonoBehaviour
 {
     private Rigidbody rb;
-    public float tempoParaCair = 2f; 
+    public float tempoParaCair = 30f; 
 
     void Start()
     {

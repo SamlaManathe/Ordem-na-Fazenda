@@ -12,7 +12,7 @@ public class Fazendeiro : MonoBehaviour
 
     public TextMeshProUGUI textoVitoria;
 
-    private int vida = 3;
+    private int vida = 15;
 
     public void Atacar()
     {
