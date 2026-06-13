@@ -1,5 +1,3 @@
-# Ordem-na-Fazenda
-
 # 🐷 Ordem na Fazenda (3D)
 
 > "Todos os animais são iguais, mas alguns animais são mais iguais que os outros."
