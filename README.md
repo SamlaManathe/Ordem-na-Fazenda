@@ -4,6 +4,9 @@
 
 Um jogo 3D inspirado na clássica obra **A Revolução dos Bichos**, de **George Orwell**, onde o jogador participa da revolução dos animais e ajuda a decidir o futuro da fazenda através de suas escolhas.
 
+**Você pode ver o vídeo de demonstração aqui:**  
+[Link do vídeo no YouTube](https://youtu.be/q_wNQYHOA_I?si=mgNKrY093OA8LrJH)
+
 ---
 
 # 🌾 A História
